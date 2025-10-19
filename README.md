@@ -1,5 +1,5 @@
 # MayorEdad
-A simple Android application that lets users enter an age and check whether the person is underage, of legal age, or exactly 18 years old.
+A simple Android application that lets users enter an age and check whether the person is underage, legal age, or exactly 18 years old.
 
 # Features
 
